@@ -13,6 +13,9 @@
 # Folders #
 target/*
 
+# Files #
+.idea/workspace.xml
+
 # Package Files #
 *.jar
 *.war
